@@ -1,3 +1,5 @@
+![alt text](https://github.com/devoups-off/react-fire-propagation/blob/master/public/fire-image.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
